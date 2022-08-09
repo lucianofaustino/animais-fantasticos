@@ -1,5 +1,6 @@
-Projeto web feito em Javascript, html e css que contém a maior parte do código em JavaScript. Ele foi desenvolvido durante o curso de JS-ES6+ que fiz, o qual foi possível aprender e aplicar o conhecimento aprendido nesse projeto.
+O projeto web Animais foi uma oportunidade aprender bastante sobres funcionalidades e aplicações da linguagem JavaScript, bem como de aplicar os conhecimentos que eu já tinha. Foi um projeto desenvolvido durante o excelente curso intensivo que fiz de JavaScript ES6+ na escola Origamid, que me possibilitou aumentar bastante o conhecimento sobre a linguagem e o desenvolvimento desse projeto, que foi criado dentro do curso. 
 
-Link github: <https://lucianofaustino.github.io/animais-fantasticos/>
+
+Link github: <https://lucianofaustino.github.io/animais-fantasticos/> (Créditosa ao criador do código "Professor André Rafael - Origamid")
 
 Linkedin: https://www.linkedin.com/in/lucianowebdeveloper/
